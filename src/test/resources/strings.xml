@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="allnotes">Alle Nachrichten</string>
+    <string name="favs">Merkliste</string>
+    <string name="follow">Follow</string>
+    <string name="login.ClientID">Communote ID</string>
+    <string name="login.inhouseinstallation">Inhouse Installation</string>
+    <string name="login.login">Login</string>
+    <string name="login.onlineservice">Online-Service</string>
+    <string name="login.password">Passwort</string>
+    <string name="login.url.example">communote.meine-organisation.de</string>
+    <string name="login.username">Nutzername</string>
+    <string name="menu.common">Communote</string>
+    <string name="menu.CommunoteApp">App</string>
+    <string name="menu.myLists">Meine Listen</string>
+    <string name="more">Mehr</string>
+    <string name="mynotes">Erwähnungen</string>
+    <string name="note.edit">Nachricht bearbeiten</string>
+    <string name="note.new">Neue Nachricht</string>
+    <string name="note.notification.error.default">Fehler!</string>
+    <string name="note.notification.sending">Nachricht wird gesendet...</string>
+    <string name="note.notification.sent">Senden erfolgreich!</string>
+    <string name="note.notification.warning.default">Fehler!</string>
+    <string name="note.reply">Antworten</string>
+    <string name="note.send">Senden</string>
+    <string name="note.topic.choose">Thema wählen</string>
+    <string name="reply">Antworten</string>
+    <string name="search">Suche</string>
+    <string name="search.noEntry">Keine Einträge</string>
+    <string name="search.sectionheader.fulltext" format="false">Volltextsuche %3</string>
+    <string name="search.sectionheader.tags">Tags</string>
+    <string name="settings">Einstellungen</string>
+    <string name="settings.service">Dienst</string>
+    <string name="submit">Abschicken</string>
+    <string name="topics">Themen</string>
+    <string name="users">Personen</string>
+</resources>
