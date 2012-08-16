@@ -27,7 +27,7 @@
     <string name="reply">Antworten</string>
     <string name="search">Suche</string>
     <string name="search.noEntry">Keine Einträge</string>
-    <string name="search.sectionheader.fulltext" format="false">Volltextsuche %3</string>
+    <string name="search.sectionheader.fulltext" formatted="false">Volltextsuche %1$s</string>
     <string name="search.sectionheader.tags">Tags</string>
     <string name="settings">Einstellungen</string>
     <string name="settings.service">Dienst</string>
