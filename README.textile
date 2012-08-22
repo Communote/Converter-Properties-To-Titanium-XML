@@ -1,0 +1,22 @@
+h1. About
+
+This project contains a converter, which can transform Java property files used for localizations into Titanium Appcelerator XML files.
+
+This is useful, if you use other tools than a simple text editor for maintaining your localizations, for instance Pootle or Weblate.
+
+h1. Usage
+
+# Create *strings.locale* files instead of *strings.xml* within your Titanium projects. We used _locale_ as extension, because of some UTF-8 problems. Simple tread them as they were Java properties.
+# Edit your localization in the strings.locale files
+# Configure Titanium Studio to use the converter as an additional builder:
+## Open the projects settings and navigate to builders
+## Add a new builder "LanguageConverter" and configure it like this
+### *Location*: Path to your Java executable, i.e. /usr/bin/java
+### *Working Directory*: ${build_project}
+### *Arguments*: "-jar /path/to/converter.jar"
+### _Optional_: Configure "Build Options" for your needs, for instance to let it only run on build and clean.
+## Move the builder to the top of the list of builders
+
+h1. Contact
+
+If you still have any problems, questions, suggestions... ask here on Github or send an email to support [at] communote.com.
