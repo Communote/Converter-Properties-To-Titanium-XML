@@ -4,6 +4,10 @@ This project contains a converter, which can transform Java property files used 
 
 This is useful, if you use other tools than a simple text editor for maintaining your localizations, for instance Pootle or Weblate.
 
+h1. Download 
+
+Download the latest version from https://github.com/downloads/Communote/Converter-Properties-To-Titanium-XML/converter-0.2.jar
+
 h1. Usage
 
 # Create *strings.locale* files instead of *strings.xml* within your Titanium projects. We used _locale_ as extension, because of some UTF-8 problems. Simple treat them as they were Java properties.
