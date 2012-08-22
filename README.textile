@@ -6,7 +6,7 @@ This is useful, if you use other tools than a simple text editor for maintaining
 
 h1. Usage
 
-# Create *strings.locale* files instead of *strings.xml* within your Titanium projects. We used _locale_ as extension, because of some UTF-8 problems. Simple tread them as they were Java properties.
+# Create *strings.locale* files instead of *strings.xml* within your Titanium projects. We used _locale_ as extension, because of some UTF-8 problems. Simple treat them as they were Java properties.
 # Edit your localization in the strings.locale files
 # Configure Titanium Studio to use the converter as an additional builder:
 ## Open the projects settings and navigate to builders
